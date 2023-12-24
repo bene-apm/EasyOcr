@@ -1,1 +1,2 @@
-Demo https://text-extractor-easyocr.streamlit.app
+DEMO
+https://text-extractor-easyocr.streamlit.app
